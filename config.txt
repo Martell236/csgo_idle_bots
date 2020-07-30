@@ -1,0 +1,4 @@
+C:\Sandbox\***\idle\drive\C\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\console.log
+C:\Sandbox\***\idle1\drive\C\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\console.log
+C:\Sandbox\***\idle2\drive\C\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\console.log
+C:\Sandbox\***\idle3\drive\C\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\console.log
